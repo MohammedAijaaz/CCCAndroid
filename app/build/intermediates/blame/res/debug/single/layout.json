@@ -28,12 +28,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_about.xml",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\src\\main\\res\\layout\\content_about.xml"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin_no_password_layout.xml",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\1.0.1\\res\\layout\\signin_no_password_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_about.xml",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\src\\main\\res\\layout\\content_about.xml"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
@@ -88,12 +88,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_twitter.xml",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\1.0.1\\res\\layout\\idp_button_twitter.xml"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\2.2.0\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\idp_button_twitter.xml",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui-auth\\1.0.1\\res\\layout\\idp_button_twitter.xml"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -144,12 +144,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\layout\\tw__gallery_activity.xml"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_notification_content.xml",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\src\\main\\res\\layout\\content_notification_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_quote.xml",

@@ -4,7 +4,7 @@
     api-level="24"
     density="560dpi"
     format="7"
-    timestamp="175245959121049"
+    timestamp="1373337006362"
     token="-1314776225925651685" >
 
     <task
@@ -20,24 +20,11 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\mdaij\AndroidStudioProjects\CCC\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-        type="DEX" />
-
-    <build timestamp="165922884496164" >
+    <build timestamp="861292093742" >
         <artifact
             location="C:\Users\mdaij\AndroidStudioProjects\CCC\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="173832360134980" >
-        <artifact
-            location="C:\Users\mdaij\AndroidStudioProjects\CCC\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="175245959121049" >
-        <artifact
-            location="C:\Users\mdaij\AndroidStudioProjects\CCC\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-    </build>
+    <build timestamp="1373337006362" />
 
 </instant-run>

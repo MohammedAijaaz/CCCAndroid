@@ -8,12 +8,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\color\\com_facebook_button_text_color.xml",

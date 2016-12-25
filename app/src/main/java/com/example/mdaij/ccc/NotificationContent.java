@@ -28,8 +28,7 @@ public class NotificationContent extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        Snackbar.make(findViewById(android.R.id.content), "Share on Whatsapp", Snackbar.LENGTH_LONG)
-                .setAction("Action", null).show();
+
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -47,6 +46,8 @@ public class NotificationContent extends AppCompatActivity {
                 }
             }
         });
+        Snackbar.make(fab, "Share on Whatsapp", Snackbar.LENGTH_LONG)
+                .setAction("Action", null).show();
 
         title = (TextView)findViewById(R.id.ncTitleId);
         content = (TextView)findViewById(R.id.ncContentId);

@@ -208,12 +208,12 @@
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\drawable-xhdpi-v4\\tw__ic_seekbar_progress_bg.9.png"
     },
     {
-        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00041.png",
-        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00041.png"
-    },
-    {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00008.png",
         "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00008.png"
+    },
+    {
+        "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00041.png",
+        "source": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\2.2.0\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00041.png"
     },
     {
         "merged": "C:\\Users\\mdaij\\AndroidStudioProjects\\CCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tw__ic_video_replay_pressed.png",

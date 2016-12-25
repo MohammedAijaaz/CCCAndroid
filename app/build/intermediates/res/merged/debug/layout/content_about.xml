@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.mdaij.ccc.About"
+    tools:showIn="@layout/activity_about">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="4dp"
+        android:id="@+id/view2">
+
+        <TextView
+            android:padding="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Wrap up your mind as we introduce the new Code Club from CBIT. Starting from today, we will be rolling out a fresh experience of collaborative projects, events, workshops and much more.
+What is CBIT Code Club?
+CBIT Code Club aims at informing students about technical events happening in our college, providing online tutorials along with a certificate and giving a platform for members to work on collaborative projects.
+Why CBIT Code Club?
+Have an idea for your project? Great! But a mere idea would not work if you cant take your project any further. Code Club endeavors to support this idea by creating a platform for members to share their projects with other members. In effect, you can get your projects done by building a team. And the opposite is also true. You can always help others build their projects.
+Programming is an incredible skill that engages both creative and problem-solving skills. Code club teaches much more than programming a computer and much more than being a developer. It lets you interact with other people making the club projects fun and creative and helping students understand how to solve problems in an easier way.
+Who can join?
+Any enthusiast can join!
+So why waste time? Get involved! It’s all about your commitment!⁠⁠⁠⁠"
+            android:id="@+id/textView3"
+            android:layout_alignBottom="@+id/view2"
+            android:layout_centerHorizontal="true" />
+
+    </android.support.v7.widget.CardView>
+    </ScrollView>
+
+
+</RelativeLayout>

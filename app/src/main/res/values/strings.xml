@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CCC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sign Out</string>
+    <string name="title_activity_notifiction_content">NotifictionContent</string>
+    <string name="title_activity_about">About</string>
+</resources>

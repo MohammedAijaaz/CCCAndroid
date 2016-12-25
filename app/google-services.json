@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1098197702761",
+    "firebase_url": "https://cccnotify-21a8d.firebaseio.com",
+    "project_id": "cccnotify-21a8d",
+    "storage_bucket": "cccnotify-21a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098197702761:android:d0e7725e3b9d6af7",
+        "android_client_info": {
+          "package_name": "com.example.mdaij.ccc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098197702761-pl5a6k9nhcqtduie3b6e9km5qtugnvp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqsHOWmzaxQbznHDVEjv8k0qNJboyt2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
